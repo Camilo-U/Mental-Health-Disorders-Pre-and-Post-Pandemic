@@ -1,4 +1,4 @@
-# Mental Health Disorders Pre and Post Pandemic Acrros Seven Different Countries
+# Mental Health Disorders Pre and Post Pandemic Across Seven Different Countries
 
 ### Description 
 ---
