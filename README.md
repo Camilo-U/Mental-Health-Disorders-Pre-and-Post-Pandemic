@@ -8,7 +8,7 @@
 ### Objective
 ---
 
-> The objective of this project was to analize mental health disorders appearance occured before and after the lockdown across seven diferent countries. 
+> The objective of this project was to analyze mental health disorders level occured before and after the lockdown across seven diferent countries. 
 
 ### Overview
 ---
